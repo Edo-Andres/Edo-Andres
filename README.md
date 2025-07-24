@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Echeverría</h1>
-<h3 align="center">I'm a Computer Engineer with a passion for programming, data science, and artificial intelligence. 📚 🧑🏻‍💻🚀</h3>
+<h3 align="center">I'm a Computer Engineer with a passion for programming, data engineering, software development and artificial intelligence. 📚 🧑🏻‍💻🚀</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
